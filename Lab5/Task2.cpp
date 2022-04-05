@@ -119,6 +119,7 @@ int main()
 
             case 4:
                 cout << p1.test() << endl;
+                running = exit();
                 break;
 
             default:
